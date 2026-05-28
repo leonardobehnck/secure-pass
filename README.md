@@ -5,4 +5,4 @@ A simple React Native (Expo) mobile app that generates random secure passwords o
 # Screens
 | Android | iOS |
 | --- | --- |
-| <img src="./screenshots/android.png" width="320" /> | <img src="./screenshots/ios/ios.png" width="320" /> |
+| <img src="./screenshots/android.png" width="320" /> | <img src="./screenshots/ios.png" width="320" /> |
