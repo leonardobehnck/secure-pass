@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Text, StyleSheet } from "react-native";
+import { View } from "react-native";
 import { StatusBar } from "expo-status-bar";
 import styles from "./Style";
 import { Logo } from "../../components/Logo/Logo";
